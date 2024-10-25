@@ -1,0 +1,4 @@
+Flask==2.2.3  # Or the latest stable version
+Werkzeug==2.2.3  # Make sure this is compatible with the Flask version
+tensorflow==2.17.0  # Your TensorFlow version
+numpy  # Add other dependencies as needed
